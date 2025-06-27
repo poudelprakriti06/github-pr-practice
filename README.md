@@ -4,3 +4,4 @@ Insert your name and create a pull-request to the main repo.
 
 1. Gaurav Shah
 2. Sopnil Giri
+3. Prakriti Poudel 
